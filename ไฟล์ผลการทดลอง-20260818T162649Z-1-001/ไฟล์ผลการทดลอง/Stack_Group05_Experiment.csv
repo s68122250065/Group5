@@ -1,0 +1,9 @@
+n,Algorithm,AverageTimeNs,Push,Pop,Comparisons
+100,Algorithm A (Event Stack Only),16092705,300,400,300
+100,Algorithm B (Event Stack + State Machine),1704041,100,0,100
+1000,Algorithm A (Event Stack Only),3559254,3000,4000,3000
+1000,Algorithm B (Event Stack + State Machine),1154165,1000,0,1000
+10000,Algorithm A (Event Stack Only),21794219,30000,40000,30000
+10000,Algorithm B (Event Stack + State Machine),5620610,10000,0,10000
+50000,Algorithm A (Event Stack Only),20796529,150000,200000,150000
+50000,Algorithm B (Event Stack + State Machine),28077986,50000,0,50000
